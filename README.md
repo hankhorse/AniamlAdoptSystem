@@ -1,7 +1,7 @@
 #### 前言
-比赛项目，简单实现了关于宠物托管、领养的功能。`很多功能尚未完善`，很水。
+毕设项目，从github中参考了[zhengqingqian](https://github.com/zhengqingqian/pet-web)的比赛项目，并优化了各种功能，额外实现了评论、在线聊天、更完整的个人页面。
 
-此仓库为前端代码，后端项目参考 [Gitee 后端代码托管仓库](https://gitee.com/zhaofengling/pet-master/tree/master)
+此仓库为前端代码，后端项目参考 [Gitee 后端代码托管仓库](https://gitee.com/yang-feng-hank/AnimalAdopt)
 
 
 ### 项目结构
@@ -22,7 +22,6 @@
 | element-ui   | 组件库       |   [官网地址](http://element.eleme.io/)   |
 | axios        | 异步请求工具  |   [github地址](https://github.com/axios/axios)    |
 | moment        | 日期格式化工具  |   [官网地址](https://momentjs.com/)   |
-| qiniu-js        | 七牛云skd，用于图片上传  |   [github地址](http://github.com/qiniu/js-sdk.git)   |
 | vue-typed-js        | 打字效果  |   [官网地址](https://mattboldt.com/demos/typed-js/)    |
 | vue-router        | 路由组件  |   [github地址](https://github.com/vuejs/vue-router#readme/)    |
 | vue-video-section        | 视频背景组件，本项目用于登录页面  |   [github地址](https://github.com/johndatserakis/vue-video-section)    |
