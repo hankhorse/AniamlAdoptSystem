@@ -30,18 +30,21 @@
 
 ### web预览
 * 登录页面
-![](./src/assets/1581399778894-HcWxmTOhEvNg5LeA.png)
+![](https://pic.hankhorse.online/images/2023/01/23/1581399778894-HcWxmTOhEvNg5LeA.png)
 
-* 资讯界面
-![](./src/assets/1581399778894-7lebrStD2DDqub4a.png)
 
 * 托管界面
-![](./src/assets/1581399778894-tNNbhuhiFRkxeTvL.png)
+![](https://pic.hankhorse.online/images/2023/01/23/1581399778894-tNNbhuhiFRkxeTvL.png)
 
 * 领养界面
-![](./src/assets/1581399778894-x6zcew7hJx2Ky9SC.png)
+![](https://pic.hankhorse.online/images/2023/01/23/1581399778894-x6zcew7hJx2Ky9SC.png)
+
+* 个人界面
+![](https://pic.hankhorse.online/images/2023/01/23/ebedf881487a09a78ea49a6efbe73be7.jpg)
 
 * 领养消息发布效果图
-![](./src/assets/1581399778890-attBkUuqq3Nfxcoz.png)
-![](./src/assets/1581399778889-5tp6TufOekGP6Dzg.png)
+![](https://pic.hankhorse.online/images/2023/01/23/1581399778889-5tp6TufOekGP6Dzg.png)
+
+* 聊天室
+![](https://pic.hankhorse.online/images/2023/01/23/78ea823855b6ffa1f12625e9b99168db.jpg)
 
